@@ -287,9 +287,9 @@ body::before {
     display: none;
   }
   h1#mainMessage {
-    font-family: "A Dragon Is Coming", cursive;
+    font-family: "Arial Black", cursive;
     font-size: 2rem;
-    color: #ff3366;
+    color: #7d051f;
     text-align: center;
     margin-bottom: 1rem;
   }
