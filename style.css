@@ -304,7 +304,7 @@ body::before {
   /* Estilos para el mensaje en la parte superior */
 .top-message {
     text-align: center;
-    font-family: 'Dancing Script', cursive;
+    font-family: "Arial Black", Arial, sans-serif;
     font-size: 24px;
     color: #ff69b4; /* Color rosa */
     margin-bottom: 20px; /* Espacio entre el mensaje y la carta */
