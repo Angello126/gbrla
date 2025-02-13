@@ -48,7 +48,7 @@ btnOpenElement.addEventListener('click', () => {
 btnCloseElement.addEventListener('click', () => {
   document.querySelector(".response-options").style.display = "none";
   document.querySelector(".options").classList.remove("hide");
-  document.getElementById("mainMessage").textContent = "En este 14 de febrero, quiero preguntarte algo importante...";
+  document.getElementById("mainMessage").textContent = "Adriana En este 14 de febrero, quiero preguntarte algo importante...";
   document.getElementById("mainMessage").style.display = 'block'; // Mostrar el mensaje original
 });
 
@@ -60,7 +60,7 @@ document.getElementById("yes").addEventListener("click", function() {
 
 document.getElementById("no").addEventListener("click", function() {
   document.querySelector(".response-options").style.display = "none";
-  document.getElementById("mainMessage").textContent = "No importa, siempre estaré aquí para ti. 💖";
+  document.getElementById("mainMessage").textContent = "Como que No?? >:,c  >:,,V";
   
   // Mostrar la imagen solo cuando se presiona "No"
   imageToShow.style.display = 'block'; // Mostrar la imagen
